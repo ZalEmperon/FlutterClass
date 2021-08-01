@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/kaduados/tasko2/MainActivity.java
+ com.kaduados.tasko2.MainActivity
+com/kaduados/tasko2/BuildConfig.java
+ com.kaduados.tasko2.BuildConfig
